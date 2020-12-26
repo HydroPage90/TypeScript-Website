@@ -15,7 +15,7 @@ The most common kinds of errors that programmers write can be described as type 
 If you are coming to TypeScript without a JavaScript background, with the intention of TypeScript being your first language, we recommend you first start reading the documentation [on JavaScript at the Mozilla Web Docs](https://developer.mozilla.org/docs/Web/JavaScript/Guide).
 If you have experience in other languages, you should be able to pick up JavaScript syntax quite quickly by reading the handbook.
 
-## How is this Handbook Structured
+## How this Handbook is Structured
 
 The handbook is split into two sections:
 
